@@ -22,7 +22,7 @@ users that emerges from our user requirements gathering work.
 
 What to include in Group Project Report?
 
-1. First, as a group we need to create an interview (prepare the questions together as a
+1) First, as a group we need to create an interview (prepare the questions together as a
 group) to gather user requirements from our potential users. Our target user group is
 University students, so we need to interview students only. In our interview, we need to
 include demographic questions, and relevant questions to find out what users would like to
@@ -34,19 +34,19 @@ interviews per group member. (if you are a group of 5 people, you should conduct
 interviews. In our Group Presentation we need to summarise what we have found during
 the interviews.
 
-3. Using the information we collected through interviews, we need to create 1 persona
+2) Using the information we collected through interviews, we need to create 1 persona
 that can be used in the user-centred design process. For our persona, describe 1 goal that
 could be satisfied by our interactive system prototype.
 
-3.Create 1 Problem (as-is) scenario that describes current user practice in relation to the
+3) Create 1 Problem (as-is) scenario that describes current user practice in relation to the
 Design Problem described in this document. The scenario should involve the persona we
 created.
 
-5. Create 1 Activity (to-be) scenario that describes current user practice in relation to the
+4) Create 1 Activity (to-be) scenario that describes current user practice in relation to the
 Design Problem described in this document. The scenario should involve the persona we
 created.
 
-7. After creating the scenarios, we will need to design your digital prototype using
+5) After creating the scenarios, we will need to design your digital prototype using
 appropriate digital prototyping tool (We used Figma). Our digital prototype should
 include all necessary screens (including Register/Login page). In the Group Project Report we
 should provide a general introduction to the digital prototype of the mobile app and
@@ -57,7 +57,7 @@ screenshots to illustrate these components of functionality. The report should d
 design choices behind each component of functionality in terms of how it satisfies the user
 requirements derived from the persona, and activities presented in the scenarios.
 
-6. After we have done our digital prototype, we should undertake a Collaborative
+6) After we have done our digital prototype, we should undertake a Collaborative
 Heuristic Evaluation (CHE) on our digital prototype. Our tasks when conducting CHE will be
 the 4 functionalities (3 of them outlined above, and 1 will be chosen by the group). In our
 report, we need to describe the process of CHE (how did we conduct CHE as a group, the
@@ -66,9 +66,9 @@ Heuristics and/or Nielsen’s Heuristics when finding usability problems) found 
 complete the tasks. We also need to provide the mean severity ratings we have found for
 each usability problem.
 
-8. After conducting CHE, we need to re-design our prototype in order to fix the usability
+7) After conducting CHE, we need to re-design our prototype in order to fix the usability
 issues found, and then we should explain what changes you have done to your final version
 of the prototype.
 
-10. Screenshots of all the screens of your digital prototype are provided in an Appendix section at
+8) Screenshots of all the screens of your digital prototype are provided in an Appendix section at
 the end of the report.

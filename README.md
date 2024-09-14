@@ -1,4 +1,4 @@
-# MobileReuseAppDesignUsingFigma
+# Mobile Reuse App Design Using Figma
 Recycling is a widely known way to combat climate change and its impacts. Items are turned
 into raw materials which can be used again, usually for a completely new product. However,
 recycling technologies and processes, in themselves, consume energy and can produce
